@@ -1,0 +1,11 @@
+{
+  "name": "SeuProjeto",
+  "displayName": "SeuProjeto",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "34c47ea1-b523-438d-acd8-b2faeeddc92f"
+      }
+    }
+  }
+}
