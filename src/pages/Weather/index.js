@@ -13,7 +13,7 @@ export default function App() {
   const [currentHour, setCurrentHour] = useState('');
   const [currentTemperature, setCurrentTemperature] = useState('');
   const [location, setLocation] = useState('');
-  const apiKey = 'f0ef8c38207278302f21416ab303f572'
+  const apiKey = ''
   const navigation = useNavigation();
 
   const fetchWeatherData = async () => {
